@@ -1,0 +1,13 @@
+os
+discord
+random
+requests
+colorama
+time
+asyncio
+sys
+json
+threading
+random
+aiohttp
+string
